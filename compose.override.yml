@@ -1,0 +1,15 @@
+# compose.yaml
+services:
+  mysql:
+    ports:
+      - "3306:3306"
+  php:
+    ports:
+      - "80:80"
+  phpmyadmin:
+    ports:
+      - "8080:80"
+
+  mercure:
+      ports:
+          - "3000:80"

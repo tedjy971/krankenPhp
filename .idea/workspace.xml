@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cef8da3-9a0f-4cec-ae23-774be35e9921" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/assets/js/admin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/assets/js/front/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/assets/js/front/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/assets/styles/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/assets/styles/front.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/config/packages/turbo.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/src/Controller/ChatController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/src/Entity/Traits/TimestampableTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/templates/another.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/templates/chat/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/templates/chat/message.stream.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/templates/front/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symfony/templates/task/success.stream.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose.override.yml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/franken/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/franken/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/.env" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/assets/controllers.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/assets/controllers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/assets/styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/compose.override.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/config/packages/translation.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/config/packages/translation.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/importmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/importmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/base.html.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.1.5/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cBSHfcf3lXZruWsLzvf5nFUEbx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dev-tgamiette/Documents/Personnel/krankenPhp/app/symfony/assets/styles&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/symfony/assets/styles" />
+      <recent name="$PROJECT_DIR$/app/symfony/assets" />
+      <recent name="$PROJECT_DIR$/app/symfony/templates/front" />
+      <recent name="$PROJECT_DIR$/app/symfony/assets/js/front" />
+      <recent name="$PROJECT_DIR$/app/symfony/templates/chat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/symfony/assets/js" />
+      <recent name="$PROJECT_DIR$/app/symfony/assets/js/front" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cef8da3-9a0f-4cec-ae23-774be35e9921" name="Changes" comment="" />
+      <created>1707583393502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707583393502</updated>
+      <workItem from="1707583394719" duration="717000" />
+      <workItem from="1707584276421" duration="31828000" />
+      <workItem from="1710161139004" duration="59000" />
+      <workItem from="1710409074136" duration="3457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app/my_project_directory" />
+    </ignored-roots>
+  </component>
+</project>
