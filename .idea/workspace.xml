@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cef8da3-9a0f-4cec-ae23-774be35e9921" name="Changes" comment="test sonnarcube ?">
+    <list default="true" id="4cef8da3-9a0f-4cec-ae23-774be35e9921" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/src/Controller/ChatController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/src/Controller/ChatController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/src/Controller/TaskController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/src/Controller/TaskController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/src/Entity/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/src/Repository/TaskRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/src/Repository/TaskRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/src/Repository/UserRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/src/Repository/UserRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/templates/front/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/front/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/templates/task/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/task/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/templates/user/_delete_form.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/user/_delete_form.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/templates/user/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/user/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/tests/Controller/TaskControllerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/tests/Controller/UserControllerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/symfony/tests/bootstrap.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +100,7 @@
       <workItem from="1707583394719" duration="717000" />
       <workItem from="1707584276421" duration="31828000" />
       <workItem from="1710161139004" duration="59000" />
-      <workItem from="1710409074136" duration="4862000" />
+      <workItem from="1710409074136" duration="7853000" />
     </task>
     <task id="LOCAL-00001" summary="test sonnarcube ?">
       <option name="closed" value="true" />
@@ -105,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710414313725</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1710415563668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710415563668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +138,7 @@
       <path value="$PROJECT_DIR$/app/symfony" />
     </ignored-roots>
     <MESSAGE value="test sonnarcube ?" />
-    <option name="LAST_COMMIT_MESSAGE" value="test sonnarcube ?" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
