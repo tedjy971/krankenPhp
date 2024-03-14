@@ -1,0 +1,12 @@
+<turbo-stream action="replace" target="my_div_id">
+    <template>
+        <div>The task "{{ task.id }}" has been created!</div>
+    </template>
+</turbo-stream>
+
+{# success.stream.html.twig #}
+<turbo-stream action="replace" target="task-form">
+    <template>
+        {{ include('task/_form.html.twig') }}
+    </template>
+</turbo-stream>
