@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cef8da3-9a0f-4cec-ae23-774be35e9921" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/assets/js/admin/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/assets/js/front/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/assets/js/front/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/assets/styles/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/assets/styles/front.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/config/packages/turbo.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/src/Controller/ChatController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/src/Entity/Traits/TimestampableTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/templates/another.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/templates/chat/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/templates/chat/message.stream.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/templates/front/base.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symfony/templates/task/success.stream.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose.override.yml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/franken/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/franken/php.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/.env" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/assets/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/assets/controllers.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/assets/controllers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/assets/styles/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/compose.override.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/config/packages/translation.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/config/packages/translation.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/importmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/importmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symfony/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/symfony/templates/base.html.twig" afterDir="false" />
-    </list>
+    <list default="true" id="4cef8da3-9a0f-4cec-ae23-774be35e9921" name="Changes" comment="test sonnarcube ?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dev-tgamiette/Documents/Personnel/krankenPhp/app/symfony/assets/styles&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/dev-tgamiette/Documents/Personnel/krankenPhp/app/symfony/assets/styles",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/symfony/assets/styles" />
@@ -121,8 +85,17 @@
       <workItem from="1707583394719" duration="717000" />
       <workItem from="1707584276421" duration="31828000" />
       <workItem from="1710161139004" duration="59000" />
-      <workItem from="1710409074136" duration="3457000" />
+      <workItem from="1710409074136" duration="3769000" />
     </task>
+    <task id="LOCAL-00001" summary="test sonnarcube ?">
+      <option name="closed" value="true" />
+      <created>1710414214945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710414214945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +104,9 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/app/my_project_directory" />
+      <path value="$PROJECT_DIR$/app/symfony" />
     </ignored-roots>
+    <MESSAGE value="test sonnarcube ?" />
+    <option name="LAST_COMMIT_MESSAGE" value="test sonnarcube ?" />
   </component>
 </project>
